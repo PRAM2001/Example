@@ -1,6 +1,7 @@
 package com;
 
 public class user {
+	private 
 	private String userEMail;
 	private String userPassword;
 	public int getUserId() {
@@ -16,5 +17,6 @@ public class user {
 	public void setUserPassword(String userPassword) {
 		this.userPassword=userPassword;
 	}
+	//asdfghjklqwertyuiopxcvbm
 }
 

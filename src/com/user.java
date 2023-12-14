@@ -1,8 +1,6 @@
 package com;
 
 public class user {
-	private int userId;
-
 	private String userEMail;
 	private String userPassword;
 	public int getUserId() {
